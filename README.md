@@ -5,14 +5,9 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my AI master degree at EPITA, France 
-- Looking for a internship as Data Scientist or Machine Learning Engineer
+- Finish my end-of-study intership as a data scientist
+- Looking for a CDI/CDD position as Data Scientist or Machine Learning Engineer
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
