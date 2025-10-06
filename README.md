@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Eric!
+### I am Zihang!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/callmeeric5/)
 
